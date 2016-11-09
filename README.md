@@ -8,3 +8,5 @@ The directional light is not necessary to reproduce the error, but it makes it e
 If you remove the floating cube, the problem does not appear.  If you rotate the clipping cube sufficiently, the problem also does not appear.
 
 Obviously something odd is going on with the depth buffer...
+
+This is now tracked in https://github.com/OSVR/OSVR-Unity-Rendering/issues/31.
