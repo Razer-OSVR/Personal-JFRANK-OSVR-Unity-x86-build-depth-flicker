@@ -9,5 +9,5 @@ EditorBuildSettings:
     path: Assets/Scenes/Test.unity
   - enabled: 0
     path: Assets/Scenes/Minimal Repro + SteamVR.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Test + SteamVR.unity
